@@ -1,4 +1,4 @@
-# Java-POS
+# Java-Desktop POS
 Point of Sales System built in JAVA with MySQL Database
 FEATURES
 >>Admin Login
